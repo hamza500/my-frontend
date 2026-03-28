@@ -1,10 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  experimental: {
-    reactCompiler: true,
-  },
-  suppressHydrationWarning: false,
+  /* config options here */
 };
 
 export default nextConfig;
